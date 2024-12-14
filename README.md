@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏽‍💻 About Me:
 Soy de Colombia, Actualmente estoy estudiando un Tecnólogo en la Universidad Del Valle, Y me encuentro finalizando un Técnico En desarrollo de software con la Gobernación junto a Politécnico Internacional PIO
 
 
